@@ -33,7 +33,7 @@ public class AppTest {
         }
 
         driver.get("http://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html");
-        Thread.sleep(10000);
+        Thread.sleep(15000);
         driver.manage().window().maximize();
 
     }
